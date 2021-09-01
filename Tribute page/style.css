@@ -1,0 +1,39 @@
+.container {
+    text-align: center;
+    background-color: #eee;
+    border-radius: 0.6%;
+    margin: 33px;
+}
+
+.name {
+    padding-top: 33px;
+}
+
+.information {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 15px auto;
+    width: 600px;
+}
+
+.image {
+    border-radius: 50%;
+    padding-top: 5px;
+    margin-bottom: -10px;
+}
+
+.profile {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 15px auto;
+    width: 600px;
+}
+
+.profile p {
+    background-color: #E0E0E0;
+    padding: 15px;
+}
+
+.time_line li {
+    text-align: center;
+}
